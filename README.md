@@ -2,7 +2,7 @@
 
 Benvenuto in questa guida completa a **Istio Service Mesh**, pensata come README per un repository Git. Qui troverai una panoramica tecnica di Istio, i principali oggetti API con esempi pratici e l'integrazione con **Kiali** per il monitoraggio.
 
-![Diagramma Service Mesh](SH-SM.jpg)
+![Diagramma Service Mesh](RH-SM.jpg)
 
 ---
 
