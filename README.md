@@ -14,6 +14,8 @@ Benvenuto in questa guida completa a **Istio Service Mesh**, pensata come README
 
 Istio introduce un **data plane** (proxy Envoy in sidecar) e un **control plane** (gestito da `istiod`).
 
+[Scarica il documento RH-SM (PDF)](RH-SM.pdf)
+
 ---
 
 ## 🏗️ Architettura
@@ -35,6 +37,8 @@ Istio introduce un **data plane** (proxy Envoy in sidecar) e un **control plane*
 |   Service | <--> Sidecar <->|   Service |
 +-----------+     (Envoy)     +-----------+
 ```
+
+![Diagramma Service Mesh](SH-SM.jpg)
 
 ---
 
